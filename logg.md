@@ -1,4 +1,4 @@
-\``` 
+\
 
     import logging
     import socket
@@ -57,7 +57,7 @@
     
         # Запускаем Flask-приложение
         app.run(debug=True)
-\```
+\
 
 ___[жирный курсив](http://localhost:5000/)___
 
